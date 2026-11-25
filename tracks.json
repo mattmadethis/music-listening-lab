@@ -1,0 +1,49 @@
+[
+  {
+    "id": "god-only-knows",
+    "artist": "The Beach Boys",
+    "title": "God Only Knows",
+    "album": "Pet Sounds",
+    "year": 1966,
+    "video": "u90beUXTKwo",
+    "focus": "Texture • harmony • arrangement",
+    "questions": [
+      {
+        "time": 12,
+        "start": 0,
+        "focus": "Introduction",
+        "prompt": "Identify two contrasting sounds in the introduction. How do their tones and rhythmic patterns complement each other?"
+      },
+      {
+        "time": 42,
+        "start": 12,
+        "focus": "Verse and harmony",
+        "prompt": "How do the bass, chords and lead vocal work together? Describe the mood and identify a specific musical detail that creates it."
+      },
+      {
+        "time": 78,
+        "start": 42,
+        "focus": "Texture and contrast",
+        "prompt": "What changes in the arrangement or vocal texture? Explain how the changes maintain interest."
+      },
+      {
+        "time": 118,
+        "start": 78,
+        "focus": "Development",
+        "prompt": "Describe how the instrumental and vocal layers develop. Which parts occupy the foreground and background?"
+      },
+      {
+        "time": 150,
+        "start": 118,
+        "focus": "Vocal layering",
+        "prompt": "Listen to the overlapping vocal lines towards the ending. How do repetition and independent melodies create a richer texture?"
+      },
+      {
+        "time": null,
+        "start": 0,
+        "focus": "Creative application",
+        "prompt": "Identify one technique from this recording that you could use in your own composition. Explain how and why you would use it."
+      }
+    ]
+  }
+]
