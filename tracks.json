@@ -45,5 +45,240 @@
         "prompt": "Identify one technique from this recording that you could use in your own composition. Explain how and why you would use it."
       }
     ]
+  },
+  {
+    "id": "voodoo-child",
+    "artist": "The Jimi Hendrix Experience",
+    "title": "Voodoo Child (Slight Return)",
+    "album": "Electric Ladyland",
+    "year": 1968,
+    "video": "IZBlqcbpmxY",
+    "focus": "Guitar effects • riffs • improvisation",
+    "questions": [
+      {
+        "time": 20,
+        "start": 0,
+        "focus": "Opening timbre",
+        "prompt": "Describe the wah-like movement in the guitar sound and how the opening establishes a pulse."
+      },
+      {
+        "time": 55,
+        "start": 20,
+        "focus": "Riff and groove",
+        "prompt": "Identify the repeating guitar idea and explain how the bass and drums support it."
+      },
+      {
+        "time": 100,
+        "start": 55,
+        "focus": "Vocal and guitar",
+        "prompt": "How do the voice and guitar alternate or overlap? Describe a specific response."
+      },
+      {
+        "time": 180,
+        "start": 100,
+        "focus": "Improvisation",
+        "prompt": "Describe how the guitar varies its pitch, phrasing, tone or rhythmic placement."
+      },
+      {
+        "time": 270,
+        "start": 180,
+        "focus": "Dynamics and texture",
+        "prompt": "Compare the energy and density with the opening. What contributes to the contrast?"
+      },
+      {
+        "time": null,
+        "start": 270,
+        "focus": "Creative application",
+        "prompt": "Identify one technique from this recording that you could apply to your own music. Explain how you would use it and why."
+      }
+    ]
+  },
+  {
+    "id": "sir-duke",
+    "artist": "Stevie Wonder",
+    "title": "Sir Duke",
+    "album": "Songs in the Key of Life",
+    "year": 1976,
+    "video": "EnNgASBdCeo",
+    "focus": "Syncopation • groove • ensemble",
+    "questions": [
+      {
+        "time": 15,
+        "start": 0,
+        "focus": "Brass introduction",
+        "prompt": "Describe the articulation and rhythmic shape of the opening brass phrase."
+      },
+      {
+        "time": 48,
+        "start": 15,
+        "focus": "Groove",
+        "prompt": "How do bass, drums and other instruments create a sense of movement? Identify an offbeat accent."
+      },
+      {
+        "time": 80,
+        "start": 48,
+        "focus": "Vocal hooks",
+        "prompt": "Describe the melodic or rhythmic features that make the vocal memorable."
+      },
+      {
+        "time": 115,
+        "start": 80,
+        "focus": "Instrumental writing",
+        "prompt": "Listen for coordinated instrumental phrases. How do timing and articulation contribute to their impact?"
+      },
+      {
+        "time": 195,
+        "start": 115,
+        "focus": "Arrangement",
+        "prompt": "Compare the texture and energy of two sections you have heard. Explain how repetition and contrast work together."
+      },
+      {
+        "time": null,
+        "start": 195,
+        "focus": "Creative application",
+        "prompt": "Identify one technique from this recording that you could apply to your own music. Explain how you would use it and why."
+      }
+    ]
+  },
+  {
+    "id": "money",
+    "artist": "Pink Floyd",
+    "title": "Money",
+    "album": "The Dark Side of the Moon",
+    "year": 1973,
+    "video": "-0kcet4aPpQ",
+    "focus": "Metre • found sound • arrangement",
+    "questions": [
+      {
+        "time": 20,
+        "start": 0,
+        "focus": "Found sound",
+        "prompt": "Identify the non-musical sounds and describe how they form a repeating rhythmic pattern."
+      },
+      {
+        "time": 55,
+        "start": 20,
+        "focus": "Metre and bass",
+        "prompt": "Count the beats in the repeating bass riff. How does its metre affect the groove?"
+      },
+      {
+        "time": 110,
+        "start": 55,
+        "focus": "Vocal arrangement",
+        "prompt": "Describe the relationship between the vocal, bass, drums and guitar."
+      },
+      {
+        "time": 180,
+        "start": 110,
+        "focus": "Instrumental development",
+        "prompt": "Identify a prominent instrumental line and describe how its phrasing differs from the repeated riff."
+      },
+      {
+        "time": 250,
+        "start": 180,
+        "focus": "Rhythmic contrast",
+        "prompt": "Compare the metre and energy of the instrumental section with the earlier vocal sections. What changes can you hear?"
+      },
+      {
+        "time": null,
+        "start": 250,
+        "focus": "Creative application",
+        "prompt": "Identify one technique from this recording that you could apply to your own music. Explain how you would use it and why."
+      }
+    ]
+  },
+  {
+    "id": "hungry-like-the-wolf",
+    "artist": "Duran Duran",
+    "title": "Hungry Like the Wolf",
+    "album": "Rio",
+    "year": 1982,
+    "video": "oJL-lCzEXgI",
+    "focus": "Synthesis • hooks • pop arrangement",
+    "questions": [
+      {
+        "time": 25,
+        "start": 0,
+        "focus": "Opening layers",
+        "prompt": "Identify contrasting electronic and instrumental sounds in the opening. What roles do they play?"
+      },
+      {
+        "time": 60,
+        "start": 25,
+        "focus": "Verse groove",
+        "prompt": "Describe how bass, drums and repeated synth patterns interact beneath the vocal."
+      },
+      {
+        "time": 95,
+        "start": 60,
+        "focus": "Hooks",
+        "prompt": "Identify a memorable melodic or rhythmic idea. Explain what makes it distinctive."
+      },
+      {
+        "time": 140,
+        "start": 95,
+        "focus": "Texture and contrast",
+        "prompt": "Compare the arrangement of two sections. What enters, drops out or changes?"
+      },
+      {
+        "time": 185,
+        "start": 140,
+        "focus": "Production",
+        "prompt": "Describe the balance, stereo space or effects you can hear and how they support the song."
+      },
+      {
+        "time": null,
+        "start": 185,
+        "focus": "Creative application",
+        "prompt": "Identify one technique from this recording that you could apply to your own music. Explain how you would use it and why."
+      }
+    ]
+  },
+  {
+    "id": "3am-eternal",
+    "artist": "The KLF",
+    "title": "3 A.M. Eternal (Live at the S.S.L.)",
+    "album": "The White Room",
+    "year": 1991,
+    "video": "HDsCeC6f0zc",
+    "focus": "Dance rhythm • sampling • production",
+    "questions": [
+      {
+        "time": 25,
+        "start": 0,
+        "focus": "Opening atmosphere",
+        "prompt": "Identify spoken, sampled or electronic sounds and explain how they establish the track's identity."
+      },
+      {
+        "time": 55,
+        "start": 25,
+        "focus": "Dance groove",
+        "prompt": "Describe the kick, percussion and bass patterns. How do repetition and accents create momentum?"
+      },
+      {
+        "time": 90,
+        "start": 55,
+        "focus": "Vocal contrast",
+        "prompt": "Compare the different vocal styles and explain how they relate to the instrumental backing."
+      },
+      {
+        "time": 135,
+        "start": 90,
+        "focus": "Arrangement and energy",
+        "prompt": "Identify changes in layers, breaks or transitions. How do these maintain interest in a repetitive groove?"
+      },
+      {
+        "time": 190,
+        "start": 135,
+        "focus": "Production and context",
+        "prompt": "Explain how the production evokes a club or live-event atmosphere. Give two audible examples."
+      },
+      {
+        "time": null,
+        "start": 190,
+        "focus": "Creative application",
+        "prompt": "Identify one technique from this recording that you could apply to your own music. Explain how you would use it and why."
+      }
+    ]
   }
 ]
