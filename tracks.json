@@ -11,38 +11,44 @@
       {
         "time": 12,
         "start": 0,
-        "focus": "Introduction",
-        "prompt": "Identify two contrasting sounds in the introduction. How do their tones and rhythmic patterns complement each other?"
+        "focus": "Opening sounds",
+        "prompt": "What can you hear in the opening? Describe two sounds and how they work together.",
+        "hint": "Listen separately to the instruments, their tone and their rhythmic patterns."
       },
       {
         "time": 42,
         "start": 12,
-        "focus": "Verse and harmony",
-        "prompt": "How do the bass, chords and lead vocal work together? Describe the mood and identify a specific musical detail that creates it."
+        "focus": "Mood and musical detail",
+        "prompt": "How does this section create its mood? Give specific musical examples.",
+        "hint": "Consider the relationship between the bass, chord changes and lead melody."
       },
       {
         "time": 78,
         "start": 42,
-        "focus": "Texture and contrast",
-        "prompt": "What changes in the arrangement or vocal texture? Explain how the changes maintain interest."
+        "focus": "Development",
+        "prompt": "What changes in this section, and what effect does that have?",
+        "hint": "Compare instrumentation, vocal texture and the number of sounds you can hear."
       },
       {
         "time": 118,
         "start": 78,
-        "focus": "Development",
-        "prompt": "Describe how the instrumental and vocal layers develop. Which parts occupy the foreground and background?"
+        "focus": "Musical layers",
+        "prompt": "How is the arrangement developing? Describe the roles of the different parts.",
+        "hint": "Which sounds draw your attention? Which sit further back or provide support?"
       },
       {
         "time": 150,
         "start": 118,
-        "focus": "Vocal layering",
-        "prompt": "Listen to the overlapping vocal lines towards the ending. How do repetition and independent melodies create a richer texture?"
+        "focus": "Ending",
+        "prompt": "What is distinctive about the ending? Explain how the musical parts work together.",
+        "hint": "Follow individual vocal lines. Listen for repetition, differences between melodies and whether lines overlap."
       },
       {
         "time": null,
         "start": 0,
         "focus": "Creative application",
-        "prompt": "Identify one technique from this recording that you could use in your own composition. Explain how and why you would use it."
+        "prompt": "Choose a musical idea or technique from this recording that could influence your own work. Explain how you would use it and why.",
+        "hint": "Think about one specific observation from your listening notes. Describe how you could adapt it in a composition, production or performance, and what effect you would aim to create."
       }
     ]
   },
@@ -58,38 +64,44 @@
       {
         "time": 20,
         "start": 0,
-        "focus": "Opening timbre",
-        "prompt": "Describe the wah-like movement in the guitar sound and how the opening establishes a pulse."
+        "focus": "Opening sounds",
+        "prompt": "Describe the sound of the guitar in the introduction. How does the opening establish the character of the track?",
+        "hint": "Listen to changes in guitar tone. Could an effect such as wah-wah be involved? Tap along to investigate the pulse."
       },
       {
         "time": 55,
         "start": 20,
-        "focus": "Riff and groove",
-        "prompt": "Identify the repeating guitar idea and explain how the bass and drums support it."
+        "focus": "Musical ideas",
+        "prompt": "What musical ideas stand out in this section? Explain how the instruments work together.",
+        "hint": "Listen for a recurring guitar riff and compare it with the bass and drum patterns."
       },
       {
         "time": 100,
         "start": 55,
-        "focus": "Vocal and guitar",
-        "prompt": "How do the voice and guitar alternate or overlap? Describe a specific response."
+        "focus": "Interaction",
+        "prompt": "Describe how the musical parts interact. Give an example from this section.",
+        "hint": "Focus on the voice and guitar. Do they play together, alternate or respond to one another?"
       },
       {
         "time": 180,
         "start": 100,
-        "focus": "Improvisation",
-        "prompt": "Describe how the guitar varies its pitch, phrasing, tone or rhythmic placement."
+        "focus": "Development",
+        "prompt": "How does the guitar playing develop in this section? Describe specific examples.",
+        "hint": "Consider pitch bends, note lengths, phrasing, changes in tone and rhythmic placement."
       },
       {
         "time": 270,
         "start": 180,
-        "focus": "Dynamics and texture",
-        "prompt": "Compare the energy and density with the opening. What contributes to the contrast?"
+        "focus": "Comparison",
+        "prompt": "Compare this section with the opening. What has changed, and what is the effect?",
+        "hint": "Consider dynamics, intensity, the number of layers and the playing style."
       },
       {
         "time": null,
         "start": 270,
         "focus": "Creative application",
-        "prompt": "Identify one technique from this recording that you could apply to your own music. Explain how you would use it and why."
+        "prompt": "Choose a musical idea or technique from this recording that could influence your own work. Explain how you would use it and why.",
+        "hint": "Think about one specific observation from your listening notes. Describe how you could adapt it in a composition, production or performance, and what effect you would aim to create."
       }
     ]
   },
@@ -105,38 +117,44 @@
       {
         "time": 15,
         "start": 0,
-        "focus": "Brass introduction",
-        "prompt": "Describe the articulation and rhythmic shape of the opening brass phrase."
+        "focus": "Opening phrase",
+        "prompt": "Describe the opening musical phrase and how it is performed.",
+        "hint": "Identify the instruments. Consider note lengths, accents and rhythmic shape."
       },
       {
         "time": 48,
         "start": 15,
-        "focus": "Groove",
-        "prompt": "How do bass, drums and other instruments create a sense of movement? Identify an offbeat accent."
+        "focus": "Rhythmic feel",
+        "prompt": "What creates the rhythmic feel of this section? Give examples.",
+        "hint": "Listen separately to bass and drums. Try tapping the pulse and noticing accents between beats (syncopation)."
       },
       {
         "time": 80,
         "start": 48,
-        "focus": "Vocal hooks",
-        "prompt": "Describe the melodic or rhythmic features that make the vocal memorable."
+        "focus": "Vocal melody",
+        "prompt": "What makes the vocal part distinctive? Refer to a specific phrase.",
+        "hint": "Consider melody shape, note lengths, rhythm and repetition."
       },
       {
         "time": 115,
         "start": 80,
-        "focus": "Instrumental writing",
-        "prompt": "Listen for coordinated instrumental phrases. How do timing and articulation contribute to their impact?"
+        "focus": "Instrumental performance",
+        "prompt": "Describe the instrumental playing in this section. What makes it effective?",
+        "hint": "Listen for instruments playing coordinated phrases, and consider timing and articulation."
       },
       {
         "time": 195,
         "start": 115,
         "focus": "Arrangement",
-        "prompt": "Compare the texture and energy of two sections you have heard. Explain how repetition and contrast work together."
+        "prompt": "Compare two sections of the track and explain how the arrangement maintains interest.",
+        "hint": "Look for differences in texture and energy, and for musical ideas that return."
       },
       {
         "time": null,
         "start": 195,
         "focus": "Creative application",
-        "prompt": "Identify one technique from this recording that you could apply to your own music. Explain how you would use it and why."
+        "prompt": "Choose a musical idea or technique from this recording that could influence your own work. Explain how you would use it and why.",
+        "hint": "Think about one specific observation from your listening notes. Describe how you could adapt it in a composition, production or performance, and what effect you would aim to create."
       }
     ]
   },
@@ -152,38 +170,44 @@
       {
         "time": 20,
         "start": 0,
-        "focus": "Found sound",
-        "prompt": "Identify the non-musical sounds and describe how they form a repeating rhythmic pattern."
+        "focus": "Opening sounds",
+        "prompt": "Describe the sounds in the opening and how they are organised.",
+        "hint": "Can you identify everyday sounds rather than conventional instruments? Listen for patterns and repetition."
       },
       {
         "time": 55,
         "start": 20,
-        "focus": "Metre and bass",
-        "prompt": "Count the beats in the repeating bass riff. How does its metre affect the groove?"
+        "focus": "Rhythmic feel",
+        "prompt": "Describe the rhythmic feel of this section. What makes it distinctive?",
+        "hint": "Tap the pulse and count how many beats occur before the bass riff repeats. Consider the metre."
       },
       {
         "time": 110,
         "start": 55,
-        "focus": "Vocal arrangement",
-        "prompt": "Describe the relationship between the vocal, bass, drums and guitar."
+        "focus": "Musical relationships",
+        "prompt": "Describe how the different musical parts work together in this section.",
+        "hint": "Listen to the vocal, bass, drums and guitar separately before considering their relationship."
       },
       {
         "time": 180,
         "start": 110,
         "focus": "Instrumental development",
-        "prompt": "Identify a prominent instrumental line and describe how its phrasing differs from the repeated riff."
+        "prompt": "What stands out in the instrumental playing? How does it relate to earlier musical ideas?",
+        "hint": "Identify a prominent instrumental line. Compare its phrasing with the repeating bass pattern."
       },
       {
         "time": 250,
         "start": 180,
-        "focus": "Rhythmic contrast",
-        "prompt": "Compare the metre and energy of the instrumental section with the earlier vocal sections. What changes can you hear?"
+        "focus": "Comparison",
+        "prompt": "Compare the rhythmic feel and energy of this section with earlier sections.",
+        "hint": "Count the beats in repeating patterns in both sections. Consider whether the metre and playing style change."
       },
       {
         "time": null,
         "start": 250,
         "focus": "Creative application",
-        "prompt": "Identify one technique from this recording that you could apply to your own music. Explain how you would use it and why."
+        "prompt": "Choose a musical idea or technique from this recording that could influence your own work. Explain how you would use it and why.",
+        "hint": "Think about one specific observation from your listening notes. Describe how you could adapt it in a composition, production or performance, and what effect you would aim to create."
       }
     ]
   },
@@ -199,38 +223,44 @@
       {
         "time": 25,
         "start": 0,
-        "focus": "Opening layers",
-        "prompt": "Identify contrasting electronic and instrumental sounds in the opening. What roles do they play?"
+        "focus": "Opening sounds",
+        "prompt": "Identify the sounds in the opening and describe their roles.",
+        "hint": "Listen for differences between electronic sounds and conventional instruments."
       },
       {
         "time": 60,
         "start": 25,
-        "focus": "Verse groove",
-        "prompt": "Describe how bass, drums and repeated synth patterns interact beneath the vocal."
+        "focus": "Musical layers",
+        "prompt": "Describe the relationship between the musical parts in this section.",
+        "hint": "Listen separately to the bass, drums, keyboard or synth patterns and vocal."
       },
       {
         "time": 95,
         "start": 60,
-        "focus": "Hooks",
-        "prompt": "Identify a memorable melodic or rhythmic idea. Explain what makes it distinctive."
+        "focus": "Memorable ideas",
+        "prompt": "Which musical idea stands out most to you? Explain why.",
+        "hint": "A hook is a memorable musical idea. Consider its melody, rhythm and repetition."
       },
       {
         "time": 140,
         "start": 95,
-        "focus": "Texture and contrast",
-        "prompt": "Compare the arrangement of two sections. What enters, drops out or changes?"
+        "focus": "Arrangement",
+        "prompt": "Compare two sections of the recording. How does the arrangement change?",
+        "hint": "Listen for parts entering, dropping out or changing their role, and consider the effect on energy."
       },
       {
         "time": 185,
         "start": 140,
         "focus": "Production",
-        "prompt": "Describe the balance, stereo space or effects you can hear and how they support the song."
+        "prompt": "What do you notice about the production of this recording? Explain the effect of specific choices.",
+        "hint": "Consider the relative levels, stereo placement, sense of space and any audible effects."
       },
       {
         "time": null,
         "start": 185,
         "focus": "Creative application",
-        "prompt": "Identify one technique from this recording that you could apply to your own music. Explain how you would use it and why."
+        "prompt": "Choose a musical idea or technique from this recording that could influence your own work. Explain how you would use it and why.",
+        "hint": "Think about one specific observation from your listening notes. Describe how you could adapt it in a composition, production or performance, and what effect you would aim to create."
       }
     ]
   },
@@ -246,38 +276,44 @@
       {
         "time": 25,
         "start": 0,
-        "focus": "Opening atmosphere",
-        "prompt": "Identify spoken, sampled or electronic sounds and explain how they establish the track's identity."
+        "focus": "Opening sounds",
+        "prompt": "Describe the opening sounds and how they establish the character of the track.",
+        "hint": "Listen for voices, samples and electronic sounds. Consider the atmosphere they create."
       },
       {
         "time": 55,
         "start": 25,
-        "focus": "Dance groove",
-        "prompt": "Describe the kick, percussion and bass patterns. How do repetition and accents create momentum?"
+        "focus": "Rhythmic feel",
+        "prompt": "How is the sense of movement created in this section? Give examples.",
+        "hint": "Listen to the kick drum, percussion and bass. Consider repeating patterns and accents."
       },
       {
         "time": 90,
         "start": 55,
-        "focus": "Vocal contrast",
-        "prompt": "Compare the different vocal styles and explain how they relate to the instrumental backing."
+        "focus": "Vocal performance",
+        "prompt": "Describe the vocal parts in this section and their relationship to the music.",
+        "hint": "Compare delivery, rhythm and melody. Consider whether different vocal styles are used."
       },
       {
         "time": 135,
         "start": 90,
-        "focus": "Arrangement and energy",
-        "prompt": "Identify changes in layers, breaks or transitions. How do these maintain interest in a repetitive groove?"
+        "focus": "Arrangement",
+        "prompt": "How does the music develop in this section? Explain what maintains interest.",
+        "hint": "Listen for layers entering or leaving, breaks, transitions and changes in energy."
       },
       {
         "time": 190,
         "start": 135,
         "focus": "Production and context",
-        "prompt": "Explain how the production evokes a club or live-event atmosphere. Give two audible examples."
+        "prompt": "What kind of listening or performance environment does this recording suggest? Support your answer with two audible examples.",
+        "hint": "Consider club or live-event production, including vocal sounds, effects, samples and rhythmic choices."
       },
       {
         "time": null,
         "start": 190,
         "focus": "Creative application",
-        "prompt": "Identify one technique from this recording that you could apply to your own music. Explain how you would use it and why."
+        "prompt": "Choose a musical idea or technique from this recording that could influence your own work. Explain how you would use it and why.",
+        "hint": "Think about one specific observation from your listening notes. Describe how you could adapt it in a composition, production or performance, and what effect you would aim to create."
       }
     ]
   }
