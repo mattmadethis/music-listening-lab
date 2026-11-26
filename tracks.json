@@ -58,7 +58,7 @@
     "title": "Voodoo Child (Slight Return)",
     "album": "Electric Ladyland",
     "year": 1968,
-    "video": "IZBlqcbpmxY",
+    "video": "C0XwPUFfFwE",
     "focus": "Guitar effects • riffs • improvisation",
     "questions": [
       {
@@ -314,6 +314,324 @@
         "focus": "Creative application",
         "prompt": "Choose a musical idea or technique from this recording that could influence your own work. Explain how you would use it and why.",
         "hint": "Think about one specific observation from your listening notes. Describe how you could adapt it in a composition, production or performance, and what effect you would aim to create."
+      }
+    ]
+  },
+  {
+    "id": "lonesome-tears",
+    "artist": "Johnny Burnette & The Rock 'N' Roll Trio",
+    "title": "Lonesome Tears in My Eyes",
+    "album": "Johnny Burnette and the Rock 'n Roll Trio",
+    "year": 1956,
+    "video": "Omzv6UL_osY",
+    "focus": "Rockabilly • guitar • vocal expression",
+    "questions": [
+      {
+        "time": 12,
+        "start": 0,
+        "focus": "Opening",
+        "prompt": "What makes the opening distinctive? Describe the playing style.",
+        "hint": "Listen to guitar articulation, note lengths and rhythmic accents."
+      },
+      {
+        "time": 35,
+        "start": 12,
+        "focus": "Rhythmic feel",
+        "prompt": "How do the instruments create movement beneath the voice?",
+        "hint": "Focus separately on bass, guitar and percussion; tap the pulse."
+      },
+      {
+        "time": 65,
+        "start": 35,
+        "focus": "Vocal expression",
+        "prompt": "How does the singer communicate emotion? Give an audible example.",
+        "hint": "Listen for pitch movement, changes in intensity and the way syllables are phrased."
+      },
+      {
+        "time": 95,
+        "start": 65,
+        "focus": "Musical interaction",
+        "prompt": "How do the instrumental parts respond to or support the voice?",
+        "hint": "Notice gaps in the singing and what the guitar does in them."
+      },
+      {
+        "time": null,
+        "start": 95,
+        "focus": "Style and context",
+        "prompt": "What features suggest the style and era of this recording? Give two audible examples.",
+        "hint": "Consider rockabilly, country and early rock and roll, and compare the small ensemble sound with modern production."
+      },
+      {
+        "time": null,
+        "start": 0,
+        "focus": "Creative application",
+        "prompt": "Choose one technique from this recording that could influence your own music. Explain how you would use it and why.",
+        "hint": "Use a specific observation from your notes and describe how you could adapt it in your own composition, production or performance."
+      }
+    ]
+  },
+  {
+    "id": "lucy-in-the-sky",
+    "artist": "The Beatles",
+    "title": "Lucy in the Sky with Diamonds",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band",
+    "year": 1967,
+    "video": "naoknj1ebqI",
+    "focus": "Psychedelia • metre • studio experimentation",
+    "questions": [
+      {
+        "time": 16,
+        "start": 0,
+        "focus": "Opening",
+        "prompt": "Describe the opening sound and the atmosphere it creates.",
+        "hint": "Listen to the repeating high keyboard figure and its unusual tone."
+      },
+      {
+        "time": 44,
+        "start": 16,
+        "focus": "Verse",
+        "prompt": "How do the musical parts support the vocal?",
+        "hint": "Consider the bass movement, sustained sounds and vocal timbre."
+      },
+      {
+        "time": 73,
+        "start": 44,
+        "focus": "Contrast",
+        "prompt": "What changes in the rhythmic feel and energy compared with the opening?",
+        "hint": "Count the beats in the verse and chorus; listen to the drum entrance."
+      },
+      {
+        "time": 125,
+        "start": 73,
+        "focus": "Development",
+        "prompt": "How does the arrangement develop when earlier musical material returns?",
+        "hint": "Compare the keyboard, guitar and sustained layers with the first verse."
+      },
+      {
+        "time": null,
+        "start": 125,
+        "focus": "Production",
+        "prompt": "How do recording and sound choices contribute to the song's character?",
+        "hint": "Consider the Lowrey organ, rotating-speaker guitar sounds and vocal processing; describe what you actually hear."
+      },
+      {
+        "time": null,
+        "start": 0,
+        "focus": "Creative application",
+        "prompt": "Choose one technique from this recording that could influence your own music. Explain how you would use it and why.",
+        "hint": "Use a specific observation from your notes and describe how you could adapt it in your own composition, production or performance."
+      }
+    ]
+  },
+  {
+    "id": "sing-sing-red-indigo",
+    "artist": "Frums",
+    "title": "sing sing red indigo",
+    "album": "A Dance of Fire and Ice: Neo Cosmos OST",
+    "year": 2022,
+    "video": "8CvxTR_irsg",
+    "focus": "Rhythm game music • rhythmic complexity • electronic production",
+    "questions": [
+      {
+        "time": 18,
+        "start": 0,
+        "focus": "Opening",
+        "prompt": "Describe the sounds and rhythmic organisation of the opening.",
+        "hint": "Try finding a steady pulse and separating the short electronic sounds."
+      },
+      {
+        "time": 40,
+        "start": 18,
+        "focus": "Rhythmic feel",
+        "prompt": "How does the music challenge your sense of timing? Give an example.",
+        "hint": "Listen for subdivisions, displaced accents and changes in rhythmic grouping."
+      },
+      {
+        "time": 65,
+        "start": 40,
+        "focus": "Sound design",
+        "prompt": "Describe the character of two contrasting sounds and how they interact.",
+        "hint": "Consider clipped or glitch-like sounds, pitched layers and percussive timbres."
+      },
+      {
+        "time": 95,
+        "start": 65,
+        "focus": "Development",
+        "prompt": "How does the music change as it progresses? What creates contrast?",
+        "hint": "Compare density, rhythmic activity and the length or placement of sounds."
+      },
+      {
+        "time": null,
+        "start": 95,
+        "focus": "Music and gameplay",
+        "prompt": "How might this music affect the experience of playing a rhythm game? Support your answer with audible examples.",
+        "hint": "Consider how changes in accents, subdivisions or unexpected rhythms might affect player timing."
+      },
+      {
+        "time": null,
+        "start": 0,
+        "focus": "Creative application",
+        "prompt": "Choose one technique from this recording that could influence your own music. Explain how you would use it and why.",
+        "hint": "Use a specific observation from your notes and describe how you could adapt it in your own composition, production or performance."
+      }
+    ]
+  },
+  {
+    "id": "drive",
+    "artist": "The Cars",
+    "title": "Drive",
+    "album": "Heartbeat City",
+    "year": 1984,
+    "video": "xuZA6qiJVfU",
+    "focus": "Synth-pop • ballad • production",
+    "questions": [
+      {
+        "time": 20,
+        "start": 0,
+        "focus": "Opening",
+        "prompt": "Describe the opening texture and the mood it establishes.",
+        "hint": "Listen to sustained keyboard sounds, bass and the regular rhythmic pattern."
+      },
+      {
+        "time": 55,
+        "start": 20,
+        "focus": "Vocal delivery",
+        "prompt": "How does the singer communicate the mood of the lyrics?",
+        "hint": "Consider Benjamin Orr's restrained delivery, phrasing and melodic contour."
+      },
+      {
+        "time": 95,
+        "start": 55,
+        "focus": "Arrangement",
+        "prompt": "How does the arrangement support the vocal without overpowering it?",
+        "hint": "Compare the relative levels and roles of keyboards, bass, drums and backing voices."
+      },
+      {
+        "time": 155,
+        "start": 95,
+        "focus": "Development",
+        "prompt": "Compare the energy and texture of two sections. What changes?",
+        "hint": "Listen for changes in vocal layering, harmony and instrumental density."
+      },
+      {
+        "time": null,
+        "start": 155,
+        "focus": "Production",
+        "prompt": "What production choices give the recording its distinctive character? Explain two examples.",
+        "hint": "Consider synthesiser timbres, controlled dynamics, stereo space and reverb."
+      },
+      {
+        "time": null,
+        "start": 0,
+        "focus": "Creative application",
+        "prompt": "Choose one technique from this recording that could influence your own music. Explain how you would use it and why.",
+        "hint": "Use a specific observation from your notes and describe how you could adapt it in your own composition, production or performance."
+      }
+    ]
+  },
+  {
+    "id": "radio-video",
+    "artist": "System of a Down",
+    "title": "Radio/Video",
+    "album": "Mezmerize",
+    "year": 2005,
+    "video": "DmmYAX8Phig",
+    "focus": "Metal • stylistic contrast • vocal interplay",
+    "questions": [
+      {
+        "time": 25,
+        "start": 0,
+        "focus": "Opening",
+        "prompt": "Describe the musical character established in the opening.",
+        "hint": "Listen for guitar tone, rhythmic accents and the vocal entrance."
+      },
+      {
+        "time": 65,
+        "start": 25,
+        "focus": "Vocal and instrumental roles",
+        "prompt": "How do the vocal and instrumental parts interact?",
+        "hint": "Consider contrasting voices, guitar riffs and changes in delivery."
+      },
+      {
+        "time": 115,
+        "start": 65,
+        "focus": "Stylistic contrast",
+        "prompt": "What changes in the musical feel as the track develops?",
+        "hint": "Compare the heavier sections with the lighter, dance-like rhythmic passages."
+      },
+      {
+        "time": 175,
+        "start": 115,
+        "focus": "Development",
+        "prompt": "How does the arrangement build or reduce intensity? Give examples.",
+        "hint": "Listen for changes in dynamics, vocal layering, rhythmic patterns and repetition."
+      },
+      {
+        "time": null,
+        "start": 175,
+        "focus": "Structure",
+        "prompt": "Explain how contrasting musical ideas are combined into a coherent song.",
+        "hint": "Consider recurring material, changes in genre feel and transitions between sections."
+      },
+      {
+        "time": null,
+        "start": 0,
+        "focus": "Creative application",
+        "prompt": "Choose one technique from this recording that could influence your own music. Explain how you would use it and why.",
+        "hint": "Use a specific observation from your notes and describe how you could adapt it in your own composition, production or performance."
+      }
+    ]
+  },
+  {
+    "id": "bohemian-rhapsody",
+    "artist": "Queen",
+    "title": "Bohemian Rhapsody",
+    "album": "A Night at the Opera",
+    "year": 1975,
+    "video": "fJ9rUzIMcZQ",
+    "focus": "Song structure • vocal layering • stylistic contrast",
+    "questions": [
+      {
+        "time": 49,
+        "start": 0,
+        "focus": "Introduction",
+        "prompt": "Describe the texture of the opening and how it develops.",
+        "hint": "Listen for unaccompanied voices, harmony, layering and the arrival of piano."
+      },
+      {
+        "time": 157,
+        "start": 49,
+        "focus": "Ballad",
+        "prompt": "How does this section develop emotionally and musically? Give specific examples.",
+        "hint": "Consider piano accompaniment, vocal phrasing, instrumental entrances and increasing dynamics."
+      },
+      {
+        "time": 183,
+        "start": 157,
+        "focus": "Instrumental transition",
+        "prompt": "How does the instrumental passage connect the preceding music with what follows?",
+        "hint": "Listen to the guitar melody, phrasing, intensity and the transition at the end."
+      },
+      {
+        "time": 247,
+        "start": 183,
+        "focus": "Contrasting section",
+        "prompt": "What makes this section different from the earlier music? Explain how its sounds are organised.",
+        "hint": "Consider operatic vocal exchanges, overdubbing, changes in register and dramatic dynamics."
+      },
+      {
+        "time": null,
+        "start": 247,
+        "focus": "Final sections and form",
+        "prompt": "Compare the final sections with the earlier music. How does the overall structure challenge a conventional pop song?",
+        "hint": "Consider the hard-rock section, quieter ending and the absence of a conventional repeating chorus."
+      },
+      {
+        "time": null,
+        "start": 0,
+        "focus": "Creative application",
+        "prompt": "Choose one technique from this recording that could influence your own music. Explain how you would use it and why.",
+        "hint": "Use a specific observation from your notes and describe how you could adapt it in your own composition, production or performance."
       }
     ]
   }
